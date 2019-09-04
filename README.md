@@ -12,4 +12,4 @@ A separate version of the code has been created for each scenario analysed in th
 4. projection of DAA treatment outside of the prisons
 5. combination of treatment and prevention strategies
 
-The manual containing a detailed discussion of the code can be found in README.docx
+The manual containing a detailed discussion of the code can be found in the documents folder.
